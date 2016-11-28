@@ -2,7 +2,7 @@
 
 > A Select component for Deku with element() syntax
 
-This component was inspired by another [Select component](github.com/gillstrom/deku-select) for [Deku](https://github.com/anthonyshort/deku)
+This component was inspired by another [Select component](https://github.com/gillstrom/deku-select) for [Deku](https://github.com/anthonyshort/deku)
 
 
 ## Install
